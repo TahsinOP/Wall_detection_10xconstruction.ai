@@ -1,4 +1,4 @@
-# Wall Detection in Point Cloud Data
+# Wall Detection (Vertical Plane Detection) using Point Cloud Data
 
 This project implements wall detection in indoor point cloud data using Python and Open3D. The implementation processes a PCD file to identify and visualize vertical planes that represent walls in the environment.
 
